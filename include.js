@@ -1965,6 +1965,20 @@ let cards = [
     githubLink: 'https://github.com/SaiAryan1784'
   },
   {
+    artName: 'Glowing Ring Animated Loader',
+    pageLink: './Art/Bhavna2003/index.html',
+    imageLink: './Art/Bhavna2003/animatedloader.gif',
+    author: 'Bhavna Makode',
+    githubLink: 'https://github.com/Bhavna2003'
+  },
+  {
+    artName: 'Glitch',
+    pageLink: './Art/Vatsalya-Vyas/index.html',
+    imageLink: './Art/Vatsalya-Vyas/Glitch.gif',
+    author: 'Vatsalya Vyas',
+    githubLink: 'https://github.com/vatsalya-vyas'
+  },
+  {
     artName: 'animation',
     pageLink: './Art/hrishit/index.html',
     imageLink: './Art/hrishit/animation.gif',
